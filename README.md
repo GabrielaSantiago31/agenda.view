@@ -32,4 +32,5 @@ O plugin WindowBuilder pode ser instalado através da própria IDE:
 ---
 - Java 17
 - Eclipse IDE
+- WindowBuilder
 - POO
