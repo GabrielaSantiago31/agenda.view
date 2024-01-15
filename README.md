@@ -2,7 +2,7 @@
 Agenda de contatos 
 
 <p>
-<img src="https://img.shields.io/badge/STATUS-EM PROGRESSO-yellow"/>
+<img src="https://img.shields.io/badge/STATUS-COMPLETO-green"/>
 </p>
 
 ### :arrow_forward: Abrir e rodar o projeto
